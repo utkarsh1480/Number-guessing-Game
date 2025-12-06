@@ -1,4 +1,4 @@
-```   ```🎯 Number Guessing Game```
+```   ```🎯 Number Guessing Game  ```
 
 This is a simple and fun Number Guessing Game built using plain HTML, CSS, and JavaScript.
 The idea is straightforward: the computer picks a random number, and the player tries to guess it with hints like “too high” or “too low” along the way.
