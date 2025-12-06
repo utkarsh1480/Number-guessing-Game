@@ -6,7 +6,10 @@ This is a simple and fun Number Guessing Game built using plain HTML, CSS, and J
 The idea is straightforward: the computer picks a random number, and the player tries to guess it with hints like “too high” or “too low” along the way.
 
 I made this project mainly to practice DOM manipulation and basic game logic in JavaScript.
-
+```
+### 🚀 Live Demo  
+Click here to play the game: **[Live Project](https://guessing-game-rust-two.vercel.app/)**
+```
 ```
 🧩 How the Game Works
 ```
