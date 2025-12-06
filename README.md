@@ -1,4 +1,5 @@
-  ```🎯 Number Guessing Game
+  ```
+🎯 Number Guessing Game
 ```
 
 This is a simple and fun Number Guessing Game built using plain HTML, CSS, and JavaScript.
@@ -6,7 +7,9 @@ The idea is straightforward: the computer picks a random number, and the player 
 
 I made this project mainly to practice DOM manipulation and basic game logic in JavaScript.
 
-```🧩 How the Game Works```
+```
+🧩 How the Game Works
+```
 
 The game selects a random number.
 
@@ -26,7 +29,9 @@ Once you guess the correct number, you can restart the game and play again.
 
 It’s simple, beginner-friendly, and a good way to understand JS basics.
 
-```🛠️ Technologies Used```
+```
+🛠️ Technologies Used
+```
 
 HTML for the structure
 
@@ -42,7 +47,9 @@ No libraries, no frameworks — just pure vanilla JS.
 ├── style.css       # Styling
 └── script.js       # Game logic
 ```
-```🚀 Running the Project```
+```
+🚀 Running the Project
+```
 
 There’s no setup required.
 Just open index.html in your browser, and you're ready to play.
